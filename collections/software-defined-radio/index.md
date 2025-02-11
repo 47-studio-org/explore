@@ -2,12 +2,12 @@
 items:
  - gnuradio/gnuradio
  - gnuradio/volk
- - csete/gqrx
+ - gqrx-sdr/gqrx
  - jgaeddert/liquid-dsp
  - miek/inspectrum
  - kpreid/shinysdr
  - RangeNetworks/openbts
- - srsRAN/srsRAN
+ - srsran/srsRAN_4G
  - xmikos/qspectrumanalyzer
  - cjcliffe/CubicSDR
  - jopohl/urh
